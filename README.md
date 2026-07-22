@@ -20,7 +20,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,arduino,linux,kali,windows,github,vscode,aws,virtualbox,cisco,wireshark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,arduino,linux,kali,windows,git,github,vscode,docker,aws,virtualbox,cisco,wireshark" alt="My Skills" />
   </a>
 </p>
 
