@@ -19,15 +19,10 @@
 ### Learning In Progress...
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,arduino,linux,kali,windows,git,github,vscode,docker,aws,virtualbox,cisco,wireshark" alt="My Skills" />
-  </a>
-<p align="left">
-  <p align="left">
+  <img src="https://skillicons.dev/icons?i=python,arduino,linux,kali,windows,git,github,vscode,docker,aws,virtualbox,cisco,wireshark" alt="My Skills" />
   <img src="https://cdn.simpleicons.org/splunk/white" alt="Splunk" width="48" height="48" /> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/wireshark/white" alt="Wireshark" width="48" height="48" /> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/cisco/white" alt="Cisco" width="48" height="48" />
-</p>
 </p>
 
 ### My Stats
