@@ -22,6 +22,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,arduino,linux,kali,windows,git,github,vscode,docker,aws,virtualbox,cisco,wireshark" alt="My Skills" />
   </a>
+<p align="left">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+</p>
 </p>
 
 ### My Stats
