@@ -10,17 +10,17 @@
 
 ### About Me
 
-🌱 I am currently a student at Islington College
-💻 My projects are available at [github](https://github.com/dhakalaayush)
-📫 How to reach me **dhakalaayush096@gmail.com**
-⚽ I love football
+🌱 I am currently a student at Islington College <br>
+💻 My projects are available at [github](https://github.com/dhakalaayush) <br>
+📫 How to reach me **dhakalaayush096@gmail.com** <br>
+⚽ I love football <br>
 🌐 If you want to know more you can visit my [website](https://dhakalayush.com.np)
 
 ### Learning In Progress...
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,arduino,linux,windows,github,vscode,splunk" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,arduino,linux,kali,windows,github,vscode,aws,virtualbox,cisco,wireshark" alt="My Skills" />
   </a>
 </p>
 
