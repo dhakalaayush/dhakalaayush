@@ -3,7 +3,7 @@
 <h3 align="center">I'm Aayush Dhakal</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhakalaayush/dhakalaayush/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/dhakalaayush/dhakalaayush/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <br>
@@ -29,4 +29,6 @@
 
 ### My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dhakalaayush&theme=tokyonight&hide_border=true&v=3)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dhakalaayush&theme=tokyonight&hide_border=true&cache_bypass=999" alt="GitHub Streak" />
+</p>
