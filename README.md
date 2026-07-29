@@ -26,9 +26,3 @@
     <img src="https://cdn.simpleicons.org/cisco/white" alt="Cisco" width="48" height="48" />
   </p>
 </p>
-
-### My Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dhakalaayush&theme=tokyonight&hide_border=true&cache_bypass=999" alt="GitHub Streak" />
-</p>
