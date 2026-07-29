@@ -1,9 +1,9 @@
-<h1 align="center">Hello $whoami!! 👋</h1>
+<img width="1247" height="302" alt="image" src="https://github.com/user-attachments/assets/3082914a-eb4b-4146-b38c-f778422f4c3a" /><h1 align="center">Hello $whoami!! 👋</h1>
 
 <h3 align="center">I'm Aayush Dhakal</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhakalaayush/dhakalaayush/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  ![Snake animation](https://github.com/dhakalaayush/dhakalaayusu/blob/output/github-contribution-grid-snake-dark.svg)
 </p>
 
 <br>
