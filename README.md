@@ -29,6 +29,4 @@
 
 ### My Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=dhakalaayush&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dhakalaayush&theme=tokyonight&hide_border=true&v=3)](https://git.io/streak-stats)
