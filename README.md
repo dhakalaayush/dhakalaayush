@@ -16,8 +16,6 @@
 ⚽ I love football <br>
 🌐 If you want to know more you can visit my [website](https://dhakalayush.com.np)
 
-### Learning In Progress...
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,arduino,linux,kali,windows,git,github,vscode,docker,aws,virtualbox,cisco,wireshark" alt="My Skills" />
   <p align="left">
