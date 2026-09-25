@@ -12,7 +12,7 @@
 
 🌱 I am currently a student at Islington College <br>
 💻 My projects are available at [github](https://github.com/dhakalaayush) <br>
-📫 How to reach me **dhakalaayush096@gmail.com** <br>
+📫 You can reach out to me on **aayushdhakal543@gmail.com** <br>
 ⚽ I love football <br>
 🌐 If you want to know more you can visit my [website](https://dhakalayush.com.np)
 
